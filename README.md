@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @GamingWithEPMninjaYT
-- 👀 I’m interested in coding; gaming; and everything else technology related!
-- 🌱 I’m currently learning discord.JS
-- 💞️ I’m looking to collaborate on N/A
-- 📫 How to reach me whateverque505@gmail.com
+Hi! I am GamingWithEPMninjaYT, but most people know me as ethan . $#7676 (now ethan . $#4562). I am learning Discord.JS, and I love gaming. I mainly use GitHub whenever I want to host a bot, but I also use it to troubleshoot some issues I have.
 
 <!---
 GamingWithEPMninjaYT/GamingWithEPMninjaYT is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
